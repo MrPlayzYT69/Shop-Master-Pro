@@ -1,0 +1,7 @@
+{
+  "name": "ShopMaster Pro",
+  "description": "A mobile-first shop management application for store owners to manage menus, track sales, and customize their digital storefront.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
